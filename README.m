@@ -1,5 +1,5 @@
-# StriverSdeSheetChallenge
-#Day1
-- **SetMatrixZeros**
+### StriverSdeSheetChallenge
+##Day1
+-SetMatrixZeros
 
 
