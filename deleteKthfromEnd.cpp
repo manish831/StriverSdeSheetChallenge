@@ -45,6 +45,7 @@ Node* removeKthNode(Node* head, int K)
         head -> next = NULL;
         return ptr;
     }
+    
     else{
         int cnt = 2;
         for( ; cnt<ok;cnt++){
